@@ -1,0 +1,2 @@
+# fcff89ef3399c3a5-dental-practice-appointment-sc
+Professional dental practice automation bot — without the professional price tag.  Multi-server support with per-server configuration and permission levels. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Dental Practice Appointment Scheduling And Reminders — fully configured and ready to use - Slash c
